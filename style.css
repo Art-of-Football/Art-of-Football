@@ -101,6 +101,16 @@
     width: 100%;
   }
 
+.heading-splash{
+  position: relative;
+  display: inline-block;
+}
+.heading-splash h1,
+.heading-splash h2{
+  position: relative;
+  z-index: 1;
+}
+
   .splash-svg{
     position: absolute;
     left: 50%;
